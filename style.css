@@ -26,6 +26,7 @@ h1{
 }
 .btn-xl{
 padding: 1rem 2rem;
+margin-bottom: -1rem;
 }
 
 .btn-primary{
@@ -45,5 +46,14 @@ hr{
   max-width: 65px;
 }
 
+.btn-flowers{
+  background-color:#f08944;
+  border-radius: 100px;
+  text-transform: uppercase;
+  color: #e2dbdb;
+  
+}
 
-
+section{
+  margin-top:3.5rem;
+}
